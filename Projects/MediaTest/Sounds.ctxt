@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Sounds
+comment0.text=\r\n\ Write\ a\ description\ of\ JavaFX\ class\ Sounds\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=stage
+comment1.target=void\ start(javafx.stage.Stage)
+comment10.params=
+comment10.target=void\ addSongs()
+comment2.params=arg0\ arg1\ arg2
+comment2.target=void\ changed(javafx.beans.value.ObservableValue,\ java.lang.Number,\ java.lang.Number)
+comment3.params=option
+comment3.target=void\ playSong(int)
+comment4.params=
+comment4.target=void\ pauseSong()
+comment5.params=
+comment5.target=void\ resetSong()
+comment6.params=event
+comment6.target=void\ changeSpeed(javafx.event.ActionEvent)
+comment7.params=
+comment7.target=void\ beginTimer()
+comment8.params=
+comment8.target=void\ run()
+comment9.params=
+comment9.target=void\ cancelTimer()
+numComments=11

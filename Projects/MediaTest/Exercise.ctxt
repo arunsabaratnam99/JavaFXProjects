@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Exercise
+comment0.text=\r\n\ Write\ a\ description\ of\ JavaFX\ class\ YouTubeTest\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=stage
+comment1.target=void\ start(javafx.stage.Stage)
+comment1.text=\r\n\ The\ start\ method\ is\ the\ main\ entry\ point\ for\ every\ JavaFX\ application.\ \r\n\ It\ is\ called\ after\ the\ init()\ method\ has\ returned\ and\ after\ \r\n\ the\ system\ is\ ready\ for\ the\ application\ to\ begin\ running.\r\n\r\n\ @param\ \ stage\ the\ primary\ stage\ for\ this\ application.\r\n
+comment2.params=
+comment2.target=void\ addVideos()
+comment3.params=link
+comment3.target=javafx.scene.web.WebView\ displayVideo(java.lang.String)
+comment4.params=event
+comment4.target=void\ exitButton(javafx.event.ActionEvent)
+numComments=5
