@@ -1,12 +1,8 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
+PROJECT TITLE:Excercise/VideoPlayer
+PURPOSE OF PROJECT: Testing JavaFX
+VERSION or DATE: May 2021
+AUTHORS: Arun Sabaratnam
+USER INSTRUCTIONS: With BlueJ IDE open the package.bluej file from there, right click either Sounds or Exercise Class and click Open JavaFX Project
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
