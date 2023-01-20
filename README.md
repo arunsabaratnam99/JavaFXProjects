@@ -1,4 +1,6 @@
 # JavaFXProjects
 2 JavaFX Projects: A media player, and an exercise chooser. 
 
-PLEASE USE THE BLUEJ IDE FOR THIS
+#How to Run
+1. Install BlueJ IDE
+2. Click on
